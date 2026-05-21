@@ -26,6 +26,25 @@ This project simulates a SOC Level 1 phishing email investigation involving emai
 
 ---
 
+## Threat Intelligence Evidence
+
+Threat intelligence enrichment was performed using external intelligence platforms to investigate suspicious phishing infrastructure.
+
+Platforms used:
+- VirusTotal
+- AbuseIPDB
+- Cisco Talos Intelligence
+
+### Key Findings
+- VirusTotal analysis identified multiple vendor detections associated with the suspicious sender IP address.
+- Threat intelligence analysis supported phishing-related infrastructure suspicion.
+- Suspicious Office365-themed spoofed domain behavior was investigated.
+
+### Evidence Screenshots
+- virustotal-ip-analysis.png
+- abuseipdb-analysis.png
+- talos-domain-analysis.png
+
 ## Investigation Workflow
 
 1. Phishing email collection
@@ -68,3 +87,6 @@ This project simulates a SOC Level 1 phishing email investigation involving emai
 index=main
 | search subject="*Urgent*" OR subject="*Password*" OR subject="*Security*"
 | table timestamp sender recipient subject sender_ip
+```
+
+---
