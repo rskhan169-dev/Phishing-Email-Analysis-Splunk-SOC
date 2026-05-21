@@ -1,0 +1,14 @@
+Urgent: Office365 Account Verification Required
+
+Dear Employee,
+
+We detected unusual login activity on your Office365 account.
+
+To avoid account suspension, verify your account immediately using the secure link below:
+
+hxxp://office365-security-verification-login.com
+
+Failure to verify within 24 hours may result in permanent account lock.
+
+Regards,
+IT Support Team

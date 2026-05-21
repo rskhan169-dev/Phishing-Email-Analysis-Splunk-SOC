@@ -1,0 +1,6 @@
+IOC_Type,Indicator,Description,Risk_Level
+Domain,office365-supportmail.com,Spoofed Office365 phishing domain,High
+IP,185.243.115.84,Suspicious phishing sender IP,High
+Email,security-alert@office365-supportmail.com,Phishing sender email,High
+Subject,Urgent Account Verification Required,Social engineering phishing subject,Medium
+URL,hxxp://office365-verification-login.com,Credential harvesting phishing URL,High
