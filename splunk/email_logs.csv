@@ -1,0 +1,5 @@
+timestamp,sender,recipient,subject,sender_ip,status
+18/05/2026 10:15,security-alert@office365-supportmail.com,employee@company.com,Urgent Account Verification Required,185.243.115.84,delivered
+18/05/2026 10:18,it-support@company-helpdesk.com,user@company.com,Password Reset Required,91.210.85.44,blocked
+18/05/2026 10:22,hr@company.com,employee@company.com,Monthly Payroll Update,192.168.1.20,delivered
+18/05/2026 10:25,security-alert@office365-supportmail.com,finance@company.com,Immediate Security Action Required,185.243.115.84,delivered
