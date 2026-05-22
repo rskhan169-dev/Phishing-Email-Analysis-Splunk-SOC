@@ -39,6 +39,7 @@ Platforms used:
 - VirusTotal analysis identified multiple vendor detections associated with the suspicious sender IP address.
 - Threat intelligence analysis supported phishing-related infrastructure suspicion.
 - Suspicious Office365-themed spoofed domain behavior was investigated.
+- AbuseIPDB analysis was performed to investigate suspicious sender IP reputation and abuse history.
 
 ### Evidence Screenshots
 - virustotal-ip-analysis.png
